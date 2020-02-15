@@ -1,2 +1,2 @@
 # Test-Folder
-This is where i test my coding .
+This is where I test my coding .
